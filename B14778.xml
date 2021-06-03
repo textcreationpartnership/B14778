@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Father Hubburds tales: or the ant and the nightingale</title>
+            <title>Ant, and the nightingale.</title>
+            <author>Middleton, Thomas, d. 1627.</author>
+         </titleStmt>
+         <extent>Approx. 83KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14778</idno><idno type="EEBO-CITATION">99842198</idno>
+  <idno type="VID">176739</idno>
+  <idno type="EEBO-PROQUEST">2240899535</idno>
+  <idno type="STC">STC 17874.7</idno>
+  <idno type="STC">ESTC S106483</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842198e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 658:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Father Hubburds tales: or the ant and the nightingale</title>
+                  <title>Ant, and the nightingale.</title>
+                  <author>Middleton, Thomas, d. 1627.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. C[reede] for William Cotton, and are to be solde at his shop neare adioyning to Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Middleton.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>An edition of: The ant, and the nightingale.</note>
+                  <note>Formerly STC 17880.</note>
+                  <note>Identified as STC 17880 on UMI microfilm.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Some print faded and show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176739:1"/>
+            <pb facs="tcp:176739:1"/>
+            <p>FATHER Hubburds Tales: <hi>OR</hi> THE ANT, And the Nightingale.</p>
+            <p>LONDON Printed by T. C. for William Cotton, and are to be solde at his Shop neare ad<g ref="char:EOLhyphen"/>ioyning to Ludgate. 1604.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176739:2"/>
+            <pb facs="tcp:176739:2"/>
+            <head>TO THE TRVE Generall Patron of all <hi>Muses, Musitians, Poets,</hi> &amp; <hi>Picture Drawers,</hi> Syr <hi>Christopher Clutch-Fist,</hi> Knighted at a very hard Peny-worth; nei<g ref="char:EOLhyphen"/>ther for eating <hi>Musk-millions, Hauchouis,</hi> or <hi>Caueare;</hi> but for a costlier Exployt, and a Hundred pound Feate of Armes; <hi>Oliuer Hubburd,</hi> brother to <hi>the Nine-wayting-Gentlewomen, the</hi> Muses, <hi>wisheth the decrease of his Lands, &amp; the Encrease of his Legges, that his Calues may hang downe like Gamashioes.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Ost Guerdonlesse Syr Pin<g ref="char:EOLhyphen"/>ching. Patron, and the <hi>Muses</hi> bad Pay-maister; Thou that owest for all the Pamphlets, Histories, and Translations, that euer hath bin Dedicated to thee, since thou wert one and twentie, &amp; could'st make Water vpō thine owne Lands; but Beware, Sir, you cannot car<g ref="char:EOLhyphen"/>ry it away so, I can tell you, for all your Cop<g ref="char:EOLhyphen"/>per-guilt Spurres, and your Brood of Feathers; for there are certaine Lyne-Sharkers, that haue courst the Countries to seeke you out al<g ref="char:EOLhyphen"/>readie, and they nothing doubt but to find you here this <hi>Candelmas</hi> Tearme, which if it should fall out so, (as I hope your Worship is wiser thē to venture vp so soone to the Chambers of <hi>Lon<g ref="char:EOLhyphen"/>don</hi>) they haue plotted together, with the best Common Play-Plotter in England, to arrest
+<pb facs="tcp:176739:3"/>you at the <hi>Muses</hi> sute (though they shoote short of them) and to set one of the Serfants of Poe<g ref="char:EOLhyphen"/>try, or rather the Poultry, to clawe you by the Back, who with one clap on your shoulder, will bruise all the Taffaty to pieces; now what the matter is betweene you, you knowe best your selfe, Syr; onely I heate, that they rayle against you in Booke-sellers Shoppes very dreadfully, that you haue vsde them most vn-knightly, in offering to take their Bookes, and would neuer returne so much as would pay for the Couers; beside the Gilding too; which stands them in somewhat you know; and a yard &amp; a quarter of broad six-peny Riband, the price of that, you are not ignorant of your self, bicause you weare broad shoo-string; and they cannot be perswa<g ref="char:EOLhyphen"/>ded but that you pull the strings off from their Bookes, and so maintaine your shooes all the yeare long; and think verily if the Booke be in Folio, that you take off the Parchment &amp; giue it to your Taylor; but saue all the Gilding toge<g ref="char:EOLhyphen"/>ther, which may amount in time to gild you a a paire of Spurs withall; such are the miserable conceits they gather of you, because you neuer giue the poore <hi>Muse</hi> suckers a peny: wherefore if I might counsell you, Sir, the next time they came with their gilded Dedicatiōs, you should take the Bookes, make your men breake their Pates, then giue them ten Groats a piece, and so driue them away.</p>
+            <closer>
+               <signed>Your Worships, if you imbrace my Counsel, Oliuer Hubburd.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176739:3"/>
+            <head>To the Reader</head>
+            <p>
+               <seg rend="decorInit">S</seg>Hall I tell you what Rea<g ref="char:EOLhyphen"/>der (but first should call you gentle, curteous, and wise, but ti's no matter, they're but folish words of course, and better left out then Printed; for if you be so, you need not be cald so; and if you be not so, there were Lawe against me for calling you out of your names) by <hi>Iohn</hi> of <hi>Powles Church-yard</hi> I sweare, and that oath will be taken at any Haberdashers; I neuer wisht this Booke better fortune, then to fall into the hands of a true spelling Prit<g ref="char:EOLhyphen"/>ter, and an honest minded Booke-sel<g ref="char:EOLhyphen"/>ler; and if honestie could be solde by the Bushell like Oysters; I had rather haue one <hi>Bushell</hi> of honestie, then three of mo<g ref="char:EOLhyphen"/>ney.</p>
+            <p>Why I call these <hi>Father Hubburds Tales;</hi> is not to haue them cald in againe, as the Tale of <hi>Mother Hubburd,</hi> the worlde would shewe litle iudgement in that y<g ref="char:EOLhyphen"/>faith: and I should say then <hi>plena stultorum omnia;</hi> for I entreat here neither of Rag<g ref="char:EOLhyphen"/>ged
+<pb facs="tcp:176739:4"/>Beares, or Apes; no, nor the lamen<g ref="char:EOLhyphen"/>table downefall of the olde wiues Plat<g ref="char:EOLhyphen"/>ters, I deale with no such Mettal: what is mirth in mee, is as harmelesse as the quarter Iacks in Powls, that are vp with their Elbows foure times an houre, and yet misvse no creature liuing: the verie bittrest in me, is but like a Phisical Frost, that nips the wicked Blood a litle, and so makes the whole Bodie the whole<g ref="char:EOLhyphen"/>somer; and none can iustly except at me, but some riotous vomiting <hi>Kit,</hi> or some Gentleman-swallowing <hi>Mol-kin;</hi> then to condemne these Tales following, because <hi>Father Hubburd</hi> tels them in the smal Syse of an <hi>Ant,</hi> is euen as much, as if these two words, <hi>God</hi> and <hi>Diuel,</hi> were Printed both in one line, to skip it ouer, and say that line were naught, because the <hi>Diuel</hi> were in it; <hi>Sat sapienti;</hi> And I hope there be many wise men in all the Twelue Companie.</p>
+            <closer>
+               <signed>Yours, if you reade without spelling or hacking<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>T. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176739:4"/>
+            <head>The Ant, and the Nightingale.</head>
+            <lg>
+               <l>THe west-Seas Goddesse in a crimson Robe,</l>
+               <l>Her Temples circled with a currall wreathe,</l>
+               <l>Waighted her Loue, the lightner of Earths Globe,</l>
+               <l>The wanton winde did on her bosome breathe:</l>
+               <l>The Nimphs of Springs did hollowed water power,</l>
+               <l>What ere was cold, helpt to make coole her Bower.</l>
+            </lg>
+            <lg>
+               <l>And now the fiery Horses of the Sun</l>
+               <l>Were from their golden-flaming Car vatra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'de,</l>
+               <l>And all the Glorie of the day was done,</l>
+               <l>Saue here and there, some Light moone clouds in chac'de,</l>
+               <l>A partie-coloured-Canopie did spread</l>
+               <l>Ouer the Sun and <hi>Thetis</hi> amorous bed.</l>
+            </lg>
+            <lg>
+               <l>Now had the Shepheards folded in their Flocks</l>
+               <l>The sweating Teemes v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>coupled from their yoakes:</l>
+               <l>The wolfe sought pray, and the slie murdring Foxe</l>
+               <l>Attempts to steale; fearelesse of rurall streakes</l>
+               <l>All beasts tooke rest that liued by labouring toile,</l>
+               <l>Onely such tang'de as had delight in spoile.</l>
+            </lg>
+            <lg>
+               <l>Now in the Pathlesse region of the Ayre,</l>
+               <l>The winged passengers had left to soa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>:</l>
+               <l>Except the Bat and Owle who bode sad care,</l>
+               <l>And <hi>Philomel</hi> that nightly doth deplore</l>
+               <l>In solile-contenting times her change of shape,</l>
+               <l>Wrought first by persidy and lust fall Rape.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:5"/>
+               <l>This poore Musitian sitting all alone</l>
+               <l>On a greene Hawthorne, from the thunder blest:</l>
+               <l>Carolls in varied notes her antique mone,</l>
+               <l>Keeping a sharpned Brier against her brest:</l>
+               <l>Her innocence this watchfull payne doth take,</l>
+               <l>To shun the Adder and the speckled Snake.</l>
+            </lg>
+            <lg>
+               <l>These two like her old foe the Lord of <hi>Thrace,</hi>
+               </l>
+               <l>Regardlesse of her dulcet changing song:</l>
+               <l>To serue their owne hist haue her life in chace,</l>
+               <l>Vertue by vice is off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed endlesse wrong:</l>
+               <l>Beasts are not all too blame, for now and then</l>
+               <l>We see the like-attempted amongst men.</l>
+            </lg>
+            <lg>
+               <l>Vnder the tree whereon the poore Bird sate,</l>
+               <l>There was a bed of busie toyling Ants,</l>
+               <l>That in their Sommer, winters comfort <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at,</l>
+               <l>Teaching poore men how to shun after want:</l>
+               <l>Whose Rules if sluggards could be learnt to keepe,</l>
+               <l>They should not starue awake, ye cold a sleepe.</l>
+            </lg>
+            <lg>
+               <l>One of these busie brethren hauing donne</l>
+               <l>His daies true labour, got vpon the tree:</l>
+               <l>And with his litle nimble Legs did runne,</l>
+               <l>Pleasde with the hearing, he desirde to see</l>
+               <l>What wondrous Creature Nature had composde,</l>
+               <l>In whom such Gratious Musick was enclosde.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:5"/>
+               <l>He got too neare: for the mistrustfull bird</l>
+               <l>Gest him to be a fpye from her knowne foe:</l>
+               <l>Suspition argues not to heare a word,</l>
+               <l>What wiseman feares not that's invr'de to woe?</l>
+               <l>Then blame not her, she caught him in her beake,</l>
+               <l>About to kill him ere the worme could speake.</l>
+            </lg>
+            <lg>
+               <l>But yet her mercy was aboue her heate,</l>
+               <l>She did not as a many silken men</l>
+               <l>Cald by much wealth, smal wit, to Iudgement seate,</l>
+               <l>Condemne at randome; but she pittied then</l>
+               <l>When she might spoile, wold great ones wold do so,</l>
+               <l>Who often kill, before the cause they know.</l>
+            </lg>
+            <lg>
+               <l>O if they would as did this litle Fowle,</l>
+               <l>Looke on their lesser Captiues with euen Ruth:</l>
+               <l>They should not heare so many sentencde, Howle,</l>
+               <l>Complayning Iustice is not friend to truth:</l>
+               <l>But they would thinke vpon this Antient <hi>Theame,</hi>
+               </l>
+               <l>Each Right extreame, is Iniury extreame.</l>
+            </lg>
+            <lg>
+               <l>Passe them to mend, for none can them amend,</l>
+               <l>But heauens Leiftenant, and earths-Iustice King,</l>
+               <l>Sterne will, hath will; no great-one wants a friend,</l>
+               <l>Some are ordainde to sorrow, some to sing;</l>
+               <l>And with this sentence let thy Griefes all close</l>
+               <l>Who ere are wrongd are happier then their foes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:6"/>
+               <l>So much for such, now to the litle Ant</l>
+               <l>In the birds beake and at the point to die:</l>
+               <l>Alas for woe, friends in distresse are scant,</l>
+               <l>None of his Fellowes to his helpe did hie:</l>
+               <l>They keepe them safe, they heare and are afraid:</l>
+               <l>Tis vaine to trust in the base numbers aide.</l>
+            </lg>
+            <lg>
+               <l>Onely himselfe vnto himselfe is friend,</l>
+               <l>With a faint voice his Foe he thus bespake:</l>
+               <l>Why seekes your gentlenes a poore wormes end?</l>
+               <l>O ere you kill, heare the excuse I make:</l>
+               <l>I come to wonder, not to worke offence,</l>
+               <l>There is no Glorie to spoile Innocence.</l>
+            </lg>
+            <lg>
+               <l>Perchance you take me for a soothing Spye,</l>
+               <l>By the slie Snake or enuious Adder feede:</l>
+               <l>Alas I know not how to faine and lye,</l>
+               <l>Or win a base Intelligencers meede,</l>
+               <l>That now are Christians, sometime Turks, then Iowes,</l>
+               <l>Liuing, by leauing Heauen for earthly Newes.</l>
+            </lg>
+            <lg>
+               <l>Trust me: I am a litle Emmet borne to worke,</l>
+               <l>Oft times a man, as you were once a maide:</l>
+               <l>Vnder the name of man much ill doth lurke,</l>
+               <l>Yet of poore me, you neede not be afraid:</l>
+               <l>Meane men, are wormes on whom the mightie tread,</l>
+               <l>Greatnes and strength your Vertue iniured.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:6"/>
+               <l>With that she opend wide her hornie bill,</l>
+               <l>The prison where this poore submissant lay:</l>
+               <l>And seeing the poore Antlie quiu'ring still:</l>
+               <l>Goe wretch, quoth she: I giue thee life and way:</l>
+               <l>The worthy will not pray on yeelding things,</l>
+               <l>Pittie's infeoffed to the blood of Kings.</l>
+            </lg>
+            <lg>
+               <l>For I was once, though now a featherde vaile</l>
+               <l>Couer my wronged bodie Queenelike clad</l>
+               <l>This downe about my neck was earst a Raile</l>
+               <l>Of Bisse imbrodered, fie on that we had</l>
+               <l>Vnthrifts and Fooles and wronged ones complaine,</l>
+               <l>Rich things were theirs, must nere be theirs againe.</l>
+            </lg>
+            <lg>
+               <l>I was thou know'st the Daughter to a King,</l>
+               <l>Had pallaces and pleasures in my time:</l>
+               <l>Now mine owne songs I am enforc'd to sing,</l>
+               <l>Poets forget me in their pleasing rime,</l>
+               <l>Like chaffe they flie tost with each windie breath,</l>
+               <l>Omitting my fore'st Rape by <hi>Tereus</hi> death!</l>
+            </lg>
+            <lg>
+               <l>But tis no matter: I my selfe can sing</l>
+               <l>Sufficient straines to witnesse mine owne worth:</l>
+               <l>They that forget a Queene, sooth with a King,</l>
+               <l>Flatterie's still barren, yet still bringeth forth,</l>
+               <l>Their workes are dewes, shed when the day is donne</l>
+               <l>But suckt vp drie by the next morning Sunne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:7"/>
+               <l>What more of them? they are like <hi>Iris</hi> throne,</l>
+               <l>Commixt with many Colours in moyst time:</l>
+               <l>Such lines portend what's in that circle showne:</l>
+               <l>Cleare weather followes showers in euery Clime,</l>
+               <l>Auerring no Prognosticator lyes</l>
+               <l>That sayes, some Great ones fall, their Riualls rise.</l>
+            </lg>
+            <lg>
+               <l>Passe such for bubbles, let their bladder-prayse</l>
+               <l>Shine and sinck with them in a moments change:</l>
+               <l>They thinke to rise, when they the Riser rayse</l>
+               <l>But regall wisedome knowes it is not strange</l>
+               <l>For Curs to fawne, base things are euer lowe,</l>
+               <l>The vulgar Eye feeds onely on the showe.</l>
+            </lg>
+            <lg>
+               <l>Else would not soothing Glofers oyle the Sonne,</l>
+               <l>Who, while his Father liude his Acts did hate:</l>
+               <l>They know all earthly day with man is donne</l>
+               <l>When he is circled in the Night of Fate,</l>
+               <l>So the deceased they thinke on no more,</l>
+               <l>But whome they iniurde late they now adore.</l>
+            </lg>
+            <lg>
+               <l>But there's a Manly Lion now can Rore,</l>
+               <l>Thunder more dreaded then the Lionesse:</l>
+               <l>Of him let simple beasts his ayde implore,</l>
+               <l>For he conceiues more, then they can expresse.</l>
+               <l>The vertuous Politick, is truly man,</l>
+               <l>Diuel, the Atheist, Polititian.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:7"/>
+               <l>I gest thee such a one: but tell thy tale,</l>
+               <l>If thou be simple as thou hast exprest:</l>
+               <l>Doe not with Coyned words set wit to sale;</l>
+               <l>Nor with the flattring world vse vay ne protest,</l>
+               <l>Sith man thou saist thou wert, I prethee tell</l>
+               <l>While thou wert man, what mischiefs thee befell.</l>
+            </lg>
+            <lg>
+               <l>Princesse! you bid me buried cares reuiue,</l>
+               <l>Quoth the poore Ant: yet sith by you I liue:</l>
+               <l>So let me in my daily labrings thriue,</l>
+               <l>As I my selfe doe to your seruice giue:</l>
+               <l>I haue bene oft a man, and so to be,</l>
+               <l>Is often to be thrall to misery.</l>
+            </lg>
+            <lg>
+               <l>But if you will haue me my mind disclose,</l>
+               <l>I must entreat you that I may set downe</l>
+               <l>The tales of my black fortunes in sad prose:</l>
+               <l>Rime is vneuen, fashiond by a Clowne:</l>
+               <l>I first was such a one, I Tild the Ground,</l>
+               <l>And amongst Ruralls verse is scarcely found.</l>
+            </lg>
+            <lg>
+               <l>Well, tell thy tales: but see thy prose be good:</l>
+               <l>For if thou <hi>Euphuize</hi> which once was rare,</l>
+               <l>And of all English Phrase the life and blood,</l>
+               <l>In those times for the fashion past compare,</l>
+               <l>Ile say thou borrowest, and condemne thy Stile:</l>
+               <l>As our new fooles, that count all following vile.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176739:8"/>
+               <l>Or if in bitternes thou raile like <hi>Nash,</hi>
+               </l>
+               <l>Forgiue me honest Soule, that tearme thy phrase</l>
+               <l>Rayling, for in thy workes thou wert not rash,</l>
+               <l>Nor didst affect in youth thy priuate praise:</l>
+               <l>Thou hadst a strife with that <hi>Trigemini,</hi>
+               </l>
+               <l>Thou hurtst not them, till they had iniurde thee.</l>
+            </lg>
+            <lg>
+               <l>Thou wast indeed too slothfull to thy selfe,</l>
+               <l>Hiding thy better tallent in thy Spleene:</l>
+               <l>True spirits are not couetous in pelfe,</l>
+               <l>Youths wit is euer ready quick and keene:</l>
+               <l>Thou didst not liue thy ripened Autumne day,</l>
+               <l>But wert cut off in thy best blooming May.</l>
+            </lg>
+            <lg>
+               <l>Else hadst thou left as thou indeed hast left</l>
+               <l>Sufficient Test, though now in others Chests</l>
+               <l>T'improue the basenes of that humorous theft</l>
+               <l>Which seemes to flow from selfe-conceiuing Brests:</l>
+               <l>Thy name they burie, hauing buried thee,</l>
+               <l>Drones eate thy Honnie, thou wert the true Bee.</l>
+            </lg>
+            <lg>
+               <l>Peace keepe thy Soule: And now to you Sir Ant,</l>
+               <l>On with your Prose, be neither rude nor nise,</l>
+               <l>In your discourse let no Decorum want:</l>
+               <l>See that you be sententious and concise,</l>
+               <l>And as I like the matter, I will sing</l>
+               <l>A Canzonet to close vp euery thing.</l>
+            </lg>
+            <pb facs="tcp:176739:8"/>
+            <p> With this, the whole Neast of Ants hearing their fellow was free from danger, like Comforters when Care is ouer, came with great thankes to harmeles <hi>Philomel,</hi> and made a Ring about her and their restored friend, seruing in stead of a dull Audience of Stinkards sitting in the Penny-Gal<g ref="char:EOLhyphen"/>leries of a Theater, and yawning vpon the Players, whilst the Ant began to stalke like a three Quarter sharer, and was not afrayde to tell tales out of the villainous schoole of the world, where the Diuell is the Schoolemaister, and the Vsurer the vnder Vsher, the Schollers yong-dicing Land-lords, that passe away three hundred Acres with three Dice in a Hand, and after the decease of so much Land in mony, become sonnes &amp; Heires of Baudy-houses: for it is an easie labour to finde Heires without Land, but a hard thing indeed, to finde Land without Heires: but for feare I in<g ref="char:EOLhyphen"/>terrupt this small Actor in lesse then <hi>Decimo Sexto,</hi> I leaue, and giue the Ant leaue to tell his Tale.</p>
+         </div>
+         <div type="tale">
+            <pb facs="tcp:176739:9"/>
+            <pb facs="tcp:176739:9"/>
+            <head>THE ANTS Tale, when he was a <hi>Plough-man.</hi>
+            </head>
+            <p>I Was sometimes (most chaste Lady <hi>Nightingale,</hi> or rather Quéene <hi>Philo<g ref="char:EOLhyphen"/>mell</hi> the rauisht) a browe melting hus<g ref="char:EOLhyphen"/>band-man: to be man and husband, is to be a poore Mayster of many rich cares: which if he cannot subiect and kéepe vnder, he must looke for euer to vndergoe as many miseries, as the houres of his yeares contain minutes such a man I was, and such a husband, for I was linked in marriage, my havings was small, and my meanes lesse; yet charge came on me, ere I knew how to keepe it: yet did I all my indeuours had a Plough and Land to employ it: Fertill enough if it were manured, and for tillage, I was neuer held a Truant.</p>
+            <p>But my destruction and the ruine of all painfull hushand-men about me, began by the prodigall downfall of my young Landlord, whose father, grandfather, and great Grandfather for many Generations had bene Lords of the Towne wherin I dwelt, and many other Townes néere adioyning: to all which belonged fayre Commons for the comfort of the poore, libertie of fishing helpe of Fuell; by brush and vnderwood ne<g ref="char:EOLhyphen"/>uer deny<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till the old deuourer of virtue, honestie and good Neighbourhood. Death had made our Landlord dance after his Pipe which is so common, that euery one knowes the way though, they make small account of it. Well d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e he did, and as
+<pb facs="tcp:176739:10"/>soon as he was laid in his Gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, the Bell might well haue towld for hospitality and good housekeeping, for whether they fell sick with him and died, and so were buried. I know not but I am sure in our towne they were neuer seene since: nor that I can hear of in any other part; especially about vs they are unpossible to be found. Well, our Landlord being dead, we had his Heire gentle ynough and fayre conditioned, rather promi<g ref="char:EOLhyphen"/>sing at first his father's vertues, then the worlds villanies, but he was so accussomed to wild and vnfruitfull company about the Court and <hi>London,</hi> (whither he was sent by his sober fa<g ref="char:EOLhyphen"/>ther to practise Ciuilitie and maners) that in the Country he would scarce kéepe,) till his father's body was layd in the cold Earth, but as soone as the hastie funerall was solemnized, from vs he posted, discharging all his old father's servants (whose Beards were euen frost bitten with Age) and was at<g ref="char:EOLhyphen"/>tended onely by a Monkey and a Mar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oset; the one being an ill fac'st fellow, as variable as New-fangle for fashions; the o<g ref="char:EOLhyphen"/>ther an imitator of any thing howeuer villanous; but vtterly destitute of all goodnes: with this French Page and Italia<g ref="char:EOLhyphen"/>nate Seruingman, was our young Landlord onely waited on; and all to saue charges in Seruingmen, to pay it out in Har<g ref="char:EOLhyphen"/>lots, and we poore men had newes of a farre greater expense within lesse then a Quarter: for we were sent for to <hi>London,</hi> and found our great Landlord in a litle Rooms about the <hi>Strand,</hi> who told vs, that whereas we had liued Tenants at will, and might in his forefathers days bene hourely turnd out, be putting on a better Conscience to vs-ward, infanded to make vs leases for yeares; and for advice twixt him and vs, he had made choyse of a Lawyer, a Mercer, and a Merchant, to whom he was much beholding, who that morning were ap<g ref="char:EOLhyphen"/>pointed to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ete in the Temple Church, Temple &amp; Church, both one in name, made vs hope of a holy méeting; but there is an old prouerbe, <hi>The nearer the Church, the farther from God.</hi> To approve which saying, we met the Mercer and the Mer<g ref="char:EOLhyphen"/>chant, that louing our Landlord or his land well, held him a great men in both their Books; some litle conference they had,
+<pb facs="tcp:176739:10"/>what the conclusion was, we poore men were not yet acquain<g ref="char:EOLhyphen"/>ted with, but being called at their leisure and when they pleased to think vpon vs; told vs, they were to dine together at the Horne in Fleet street, being a house where their Lawyer resor<g ref="char:EOLhyphen"/>ted: and if if we would there attend them, we should vnder<g ref="char:EOLhyphen"/>stand matter much for our good and in the meane time they appointed vs néere the old Temple Garden to attend their Counsellor, whose name was Maister <hi>Prospero,</hi> not the great Rider of horse, for I heard there was once such a one, but a more cunning Rider, who had rid many men till they were more miserable then beasts and our ill hap it was to proue his Hackneys: well though the issue were ill, on we went to awaite his Worship, Whose chamber we found that morning fuller of Clients, then I could euer see suppliants to heauen in our poore parish Church, and yet we had in it three hundred households: and I may tell it with reuerence, I neuer saw more submission done to God, then to that great Lawyer euery sui<g ref="char:EOLhyphen"/>tor there offered gold to this gowned: Idol, standing bare hea<g ref="char:EOLhyphen"/>ded in a sharpt set morning; for it was in booted, Michaelmas Terme and not a word spoke to him but it was with the bowing of the Body and the submissive flexure of the knee: short Tale to make, he was informed of vs, what we were, and of our coming vp; when with an iron looke, and shrill voice, he be<g ref="char:EOLhyphen"/>gan to speake to the richest of our number, euer and anon, yer<g ref="char:EOLhyphen"/>king out the word <hi>Fines,</hi> which serued instead of a full point to euery Sentence.</p>
+            <p>But that word <hi>Fines</hi> was no fine word me-thought, to please poore labouring husbandmen, that can scarce sweat out so much in a twelue-month as he would demand in a twink<g ref="char:EOLhyphen"/>ling: at last to close vp the lamentable Tragedy of vs Plough-men enters our young Landlord; so metamorphosed into the shape of a French Puppet, that at the first we started, and thought one of the Baboons had marched in, in man's Apparel, his head was dressed vp in white Feathers like a Shuttle-Cock, which agreed so well with his biggeste, being nothing but Corke, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Guard might very easily haue tossed him with Battledoores, and made good sport with him in
+<pb facs="tcp:176739:11"/>his Maiesties great Hall: his doublet was of a strange Cut, and to shew the fury of his humor, the collor of it rose vp so hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and sharp, as if it would haue cut his throate by day-light: his wings according to the fashion now, was as litle and deminu<g ref="char:EOLhyphen"/>tive as a Puritan's Ruffe, which shewed he nere ment to flie out of <hi>England,</hi> nor <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> exployt beyond Sea, but liue and die about <hi>London,</hi> though he b<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in <hi>Finsburie:</hi> his Bréeches a wonder to see, were full as deepe as the middle of winter, or the Roade-way betwéene <hi>London</hi> and <hi>Winchester,</hi> and so large and wide withall, that I thinke within a Twelue-month, he might very well put all his lands in them; and then you may imagine they were big enough, when they would out-reach a thousand Acres: Moreouer, they differed so farre from our fa<g ref="char:EOLhyphen"/>shiond-Hose in the Country, and from his fathers old Gas<g ref="char:EOLhyphen"/>coynes, that his backe part séemed to vs like a Monster: the Rolyle of the Bréeches standing so lowe, that we coniecturds his house of Office Sir Reuerence, stood in his hams. All this while his French Monkey bore his Cloake of thrée pounds a yard, linde cleane through with purple Veluet, which did so dazle our coarse Eyes, that we thought we should haue bene purblind euer after: what with the prodigall aspect of that, and his glorious Rapier &amp; Hangers, all bost with Pillars of Golde, fairer in showe then the Pillars in Powles, or the Tombes at <hi>Westminster:</hi> beside it drunke vp the price of all my plough-land in very pearle, which stuck as thick vpon those Hangers, as the white Meazells vpon hogs flesh: When I had well viewde that gaie gawdy Cloake, and those vnthrifty wastfull. Hangers, I muttered thus to myselfs that is no Cloake for the Rayne sure, nor those no Hangers for <hi>Derick:</hi> when of a sud<g ref="char:EOLhyphen"/>daine casting mine eyes lower, I beheld a curious payre of Bootes of King <hi>Philips</hi> leather, in such artificall wrinckles, sets and plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, as if they had bene starcht lately, and came new from the Laundresses, such was my ignorance and simple ac<g ref="char:EOLhyphen"/>quaintance with the fashion: and I dare sweare my fellowes and neighbours here, are all as ignorant as myselfe: but that which struck vs most into admiration, vpon those fantastie all
+<pb facs="tcp:176739:11"/>Bootes, stood such huge and wide tops which so swallowed vp his t<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s, that had be sworn as other Gallants did, this com<g ref="char:EOLhyphen"/>mon Oath would I might sinke <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; stand, all his body might very well haue sunke downe, and been damned in his bootes. Lastly, he walked the chamber with such a pestilent Gingle, that his Spurs ouer squeaked the Lawyer, and made him reach his voice three notes: aboue his Fee: but after we had spied the Rowles of his Spures, how we blest ourselves, they did so much and so far excéed the cōmpasse of our fashion, that they looked more like the forerunners of wheel-barrowes: thus was our young Landlord accoutred, in such a strange and prodi<g ref="char:EOLhyphen"/>gall shape, that it amounted to aboue two yeares rent in appa<g ref="char:EOLhyphen"/>rell. At last approach the Mercer and the Merchant, two nota<g ref="char:EOLhyphen"/>ble. Arch trades-men, who had fitted my young Maister in Clothes, whilst they had clothed themselves in his Acres, and measured him out Veluet by the Thumbe, whilest they re<g ref="char:EOLhyphen"/>ceiued his R<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>wes by handfuls: for he had not so many yards in his suit, as they had yards an houses bound for the Payment: which now he was forced to passe ouer to them, or else all his Lauds should be put to their book, and to their for<g ref="char:EOLhyphen"/>feiting neck-verse: so my you after <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Gentleman Penfiener, but his a Gentlman S<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der a <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Maister <hi>Bursebell,</hi> the Royall Scriue<g ref="char:EOLhyphen"/>ner, with Deeds, and Writings, hanged drawn and quartered for the purpose he was a Valiant Scribe I remember, his Pen lie mounted betweene his Ear like a Tower Gun, but not charg'd yet, till our yong Maister's Patrimony shot off which was some third part of an how<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> after: By this time the Law<g ref="char:EOLhyphen"/>yer, the Mercer, and the Merchant, were whispring and con<g ref="char:EOLhyphen"/>sulting together, about the writings and passage of the land, in very déeps and sober conference; but our Wise-acres all the while, as one regardlesse of either land or mony, not hearkening or inquisitiue after their subtill and politick deuices, held him<g ref="char:EOLhyphen"/>self very busie about the burning of his Tobacco pipe (as there is no Gallant but bath a Pipe to burne about <hi>London</hi>) though we poore simple men neuer heard of the name till that
+<pb facs="tcp:176739:12"/>time, and he might very fitly take Tobacco there, for the Law<g ref="char:EOLhyphen"/>yer and the rest made him smoake already: but to haue noted the Apish humor of him, and the fantasticall faces he coyed in the receiuing of the smoake, it would haue made your Ladi<g ref="char:EOLhyphen"/>ship haue sung nothing but merry Iigs for a twelue-month af<g ref="char:EOLhyphen"/>ter: one time. winding the Pipe like a Horne at the Pie-cor<g ref="char:EOLhyphen"/>ner of his mouth, which must néeds make him looke like a Sow-gelder, and another time scruing his face like one of our Countrie Players, which must néeds make him looke like a foole; nay, he had at least his dozen of Faces, but neuer a good one amongst them all: neither his fathers face, nor the face of his grandfather, but yet more wicked and riotous faces, then al the generation of him: now their priuie whisprings and villai<g ref="char:EOLhyphen"/>nous Plots began to be drawne to a conclusion, when present<g ref="char:EOLhyphen"/>ly they cald our smoaky Landlord in the midst of his draught, who in a valiant humor dasht his Tobacco-pipe into the chimney-corner: whereat I started, and bekring his <hi>Marmo<g ref="char:EOLhyphen"/>set</hi> to me, askte him if those long white things did cost no mo<g ref="char:EOLhyphen"/>ney: to which the slaue replied very proudly: Mony! Yes sirr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: but I tell thée my Maister scorns to haue a thing come twice to his mouth. Then (quoth I) I thinke thy Maister is more choyce in his mouth, then in any member else: it were good if he vsed that all his Body ouer, he would neuer haue néed as many gallants haue, of any sweating Phissck. Sweating Phi<g ref="char:EOLhyphen"/>sick replyed the <hi>Marmoset,</hi> what may thy meaning be: Why, doe not you Plough men sweate too? Yes quoth I, most of a<g ref="char:EOLhyphen"/>ny men liuing? but yet there is difference betwéene the sweate of a Plough-man, and the sweat of a Gentleman, as much as betwéen your Maisters apparell and mine: for when we sweate the land prospers, and the Haruest comes in: but when a Gen<g ref="char:EOLhyphen"/>tleman sweats, I wot how the géere goes then. No sooner were these words spoken, but the <hi>Marmoset</hi> had drawne out his Poniard halfe-way, to make a showe of reuenge: but at the smart voice of the Lawyer he suddainly whipt it in againe. Now was our yong Maister with one pen-full of Inck, doing a farre greater exployt then all his forefathers: for what they
+<pb facs="tcp:176739:12"/>were a purchasing all their life-time, he was now passing away in the fourth part of a minute: and that which many thousand drops of his Grandfather's browes did painfully striue for one drop now of a Scriueners Iack-horne did easily passe ouer. A dash of a pen stood for a thousand Acres: how quickly they were dasht in the mouth by our young Landlords prodigall fist, it seemed he made no more account of Acres then of Acornes; then were we cald, to set our hands for witnesses of his folly: which we poore men did witnesse too much already: and because we were found ignorant in writing, and neuer practised in that black Art, which I might very fitly tear me so, because it con<g ref="char:EOLhyphen"/>iur'd our young Maister out of all? we were commanded as it were; to draw any marke with a pen which should signifie as much as the best hand that euer old <hi>Peter Bales</hi> hung out in the old Baily: to conclude, I tooke the pen first of the Lawyer, and turning it arsie versie, like no Instrument for a Plough-man our youngster and the rest of the Faction burst into laughter at the simplicitie of my fingering; but I not so simple as they laught me for, drew the picture of a knauish Emblem, which was, <hi>A Plough with the heeles vpward:</hi> signifing thereby, that the world was turnd vpside downe, since the de<g ref="char:EOLhyphen"/>cease of my old Landlord: all hospitality and good housekéeping kicked out of doores, al thriftines and good husbandry tost into the Ayre, Ploughs turnd into Trunks, and Corne into Apparell: then came another of our husband-men to set his marke by mine, be holding the Pen cleane at the one side, towards the Merchant, and the Mercer, shewing that all went on their sides, drew the forme of an vnbridled Colt, so wild and vnruly, that he séemed with one foote to kick vp the earth and spoile the labours of many toyling Beasts, which was fitly alluded to our wild and vnbridled Landlord, which like the Colt could stand vpon no ground, till he had no ground to stand vpon.</p>
+            <p>These marks set down vnder the shape of sunplicity, were the lesse markt with the eyes Of knauery: for they litle dreamed that we Plough-men could haue so much Satyre in vs as to bite our young Landlord by the Elbow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: well this ended,
+<pb facs="tcp:176739:13"/>Maister <hi>Bursebell</hi> the Calues-skin Scriuener, was Royally handled, that is, he had a Royall put in his hand by the Mer<g ref="char:EOLhyphen"/>chant. And now I talke of Calues-skin, tis great pittie, Lady <hi>Nightingale,</hi> that the skins of harmlesse and innocent Beasts, should be as Instruments to worke villainy vpon, entangling yong Nouices and foolish elder brothers which are caught like Woodcockes in the nette of the Law: ti's easter for one of the greatest Fowles to slide through the least hole of a nette, then one of the least fooles, to get from the lappit of a Bond: by this time y<seg rend="sup">e</seg> squeaking Lawier began to re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terat y<seg rend="sup">e</seg> cold word <hi>Fines,</hi> which struck so chill to our hearts, that it made them as cold as our heeles, which were almost frozen to the floore with stan<g ref="char:EOLhyphen"/>ding. Yea, quoth the Merchant and the Mercer, you are now Tenants of ours, all the right, title, and interest of this young Gentleman (your late Land lord) we are firmely possessed of, as you yourselves are witnesses: wherefore this is the conclu<g ref="char:EOLhyphen"/>sion of our meeting, such <hi>Fines</hi> as Maister <hi>Prospero</hi> here by the valuation of the land, shall out of his proper iudgment al<g ref="char:EOLhyphen"/>lot to vs, such are we to demaund at your hands, therefore we refere you to him to wayte his answere, at the Gentlemans best time and leasure; with that they stifeled two or thrée An<g ref="char:EOLhyphen"/>gels in the Lawyers right hand: right hand said I! which hand was that trows yée? for it is impossible to know which is the right hand of a Lawyer, because there are but few Lawyers that haue right hands, and those fewe make much of them: so taking their leaues of my yong Landlord that was, and that neuer shall be againe: away they marched heauier by a thou<g ref="char:EOLhyphen"/>sand Acres at their parting, then they were before at their méeting. The Lawyer then turning his Irish face to vs-ward, willed vs to attend his worship the next Tearme, when wee should further vnderstand his pleasuree we poore souls thanked his worship, and paid him his Fée out in Legs, when in sight of vs, he embraced our yong Gentleman, (I thinke for a foole and gaue him many riotous instructions how to carry himself: which he was prompter to take, then the other to put into him, told him he must acquaint himself with many Gallants of the
+<pb facs="tcp:176739:13"/>Innes of court, &amp; kéep rank with those that spend most alwaies wearing a bountifull disposition about him, loftie and liberall: his lodging must be about the <hi>Strand</hi> in any case being remote from the Handi-craft cent of the Cittie; his eating must be in some famous Tauerne, as the <hi>Horne,</hi> the <hi>Myter,</hi> or the <hi>Mer<g ref="char:EOLhyphen"/>maide,</hi> and then after dinner, he must venture beyond sea, that is, in a choise paire of Noble-mens Oares to the Bank-side, where he must sit out the breaking vp of a Comedie, or the first cut of a Tragedie; or rather (if his humour so serue him) to call in at the Black-fryers, where he should see a neast of Boyes, a<g ref="char:EOLhyphen"/>ble to rauish a man. This said, our young Goose cap who was readie to embrace such counsell, thankt him for his fatherly ad<g ref="char:EOLhyphen"/>monitions, (as he termed them) and told him againe, that he should not finde him with the breach of any of them: (swearing and protesting he would kéepe all those, better then the ten Commandments: At which word he buckled on his Rapier and Hangers, his Monkey face casting on his cloake by the booke: after an Apish congée or two, passed downe stayres with<g ref="char:EOLhyphen"/>out either word or nod to vs, his old fathers Tenants: Never<g ref="char:EOLhyphen"/>thelesse, we followed him (like so many russet seruing-men) to sée the euent of all, and what the issue would come too: when of a sudden he was encountred by a most glorious spangled Gal<g ref="char:EOLhyphen"/>lant, which we tooke at first to haue bene some vpstart Taylor, because be measured all his body with a salutation, from the flow of the Dublet, to the fall of the Breeches: but at last we found him to be a very fantasticall Spunge, that licked vp all humours, the very Ape of fashions, gesture, and complement, one of those indeed (as we learned afterward) that fed vppon yong Land-lords, ryotous sonnes and heires, till either he, or the Counter in Wood-stréete had swallowed them vp: and would not stick to be a Bawd, or Pander to such young Gal<g ref="char:EOLhyphen"/>lants as our young Gentleman, either to acquaint them with Harlots, or Harlots with them, to bring them a whole dozen of Taffeta Punkes at a supper, and they should be none of these common <hi>Molls</hi> neither, but discontented and vnfortu<g ref="char:EOLhyphen"/>nate Gentlewoman, whose Parents being lately deceased, the
+<pb facs="tcp:176739:14"/>brother ranne away with all the land, and the poore Squalles with a litle mony, which cannot hold out long without some commings in, but they will rather venture a Maidenhead then want a Head tyre: such Shuttle-cockes as these, which though they are toste and played withall, goe like Maides all white on the top: or else decayed Gentlemens wiues, whose husbands (poore soules) lying for debt in the Kings. Bench, they goe about to make monsters in the Kings-head Tauerne: for this is a generall Axiom: all your luxurious plots are alwayes begun in Tauernes, to be ended in vauting houses, and after supper when fruite comes in, there is small fruite of honestie to be loo<g ref="char:EOLhyphen"/>ked for: (For you know that the eating of the Apple, alwayes betokens the fall of <hi>Eue</hi>) Our prodigall childe accompanied with this soaking Swaggerer and admirable Cheater, (who had supt vp most of our heires about <hi>London,</hi> like pocht<g ref="char:EOLhyphen"/>egges) slips into White Fryers Nunnery, whereas the report went, he kept his most delicate Drab, of thrée hundred a yeare: some vnthriftie Gentlemans daughter, who had morgaged his land to Scriueners, sure inough from redéeming againe: for so much she seemed by her bringing vp, though lesse by her ca<g ref="char:EOLhyphen"/>sting downe, endued she was (as we heard) with some good qualities, though all were conuerted then but to flattring villa<g ref="char:EOLhyphen"/>nies: she could runne vpon the Lute very well, which in others would haue appeared vertuous, but in her lasciuious, for her running was rather iested at because she was a light Runner besides: she had likewise the gift of singing very deliciously, a<g ref="char:EOLhyphen"/>ble to charme the hearer, which so bewitcht away our young Maisters mony, that he might haue kept seuen Noise of Musi<g ref="char:EOLhyphen"/>tians for lesse charges, and yet they would haue stood for Ser<g ref="char:EOLhyphen"/>uingmen too, hauing blew coats of their owne: she had a hu<g ref="char:EOLhyphen"/>mour to lispe often, like a flattring wanton, and talke childish, like a Parsons daughter; which so pleased and wrapt our old Land-Lords licourish sonne, that he would sweare, she spake nothing but swéete meates: and her breath then sent forth such a delicious odour, that it perfumed his white Sattin doublet, better then sixtéene Milliners. Wel, there we left him with his devouring Cheater, &amp; his glorious Cockatrice, &amp; being almost
+<pb facs="tcp:176739:14"/>vpon dinner-time, we hied vs and tooke our repast, at thriftie Mother <hi>Walkers,</hi> where we found a whole neast of pinching Batchelors, crowded together vpon Formes and Benches, in that most worshipfull Thrée-halfe-peny Ordinary: where pre<g ref="char:EOLhyphen"/>sently they were boarded, with hot Monnsier Mutton and Por<g ref="char:EOLhyphen"/>ridge (A French-man by his blowing) &amp; next to them, we were serued in order, euery one taking their degrée: And I tell you true, Ladie, I haue knowne the time, when our young Land-lords father hath bene a thrée-halfpeny-eater there: nay more, was the first that acquainted vs with that sparing and thriftie Ordinarie, when his ryotous sonne hath since spent his fiue pound at a sitting. Wel, hauing discharged our smal shot (which was like Haile-shot, in respect of our yong Maisters Cannon-reckonings in Tauernes) we plodded home to our Ploughs, carrying these heavy newes to our wiues, both of the prodiga<g ref="char:EOLhyphen"/>litie of our old Land-lords sonne, as also of our oppressions to come, by the burthen of vncharitable Fines. And most musicall Madame <hi>Nightingale,</hi> doe but imagine now, what a sad Christmas we al kept in the Countrie, without either Carols, Wassel Bowles, dauncing of Sellengers round in Moone-shine nights about May-Poles, Shoeing the Mare, Hoodman blind, Hot-cockles, or any of our old Christmas Gambols no, not so much as choosing King and Queene, on Twelfe-night: such was the dulnes of our pleasures, for that one word Fines, robbed vs of all our fine Pastimes.</p>
+            <p>This sowre fac<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Christmas thus vnpleasantly past ouer, vp againe we trotted to London, in a great Frost (I remem<g ref="char:EOLhyphen"/>ber) for the ground was as hard as the Lawyers Conscience: and arriuing at the luxurious <hi>Strand,</hi> some thrée dayes before the Tearme, we inquired for our bountifull Land-lord, or the Foole in the full, at his neate and curious Lodging: but answere was made vs by an old Chamber-maide, that our Gentleman slept not there all the Christmas time, but had bene at Court, and at least in fiue Maskes, marry now as she thought, we might find him at Maister <hi>Poops</hi> his Ordinary, with halfe a dozen of Gallants more, at Dice. At Dice! at the Diuell,
+<pb facs="tcp:176739:15"/>quoth I, for that is a Dicers last throw: here I began to rayle like <hi>Thom. Nash,</hi> against <hi>Gabriell Haruey!</hi> if you call that rayling, yet I thinke it was but the running a Tilt of wits in Booke sellers shops, on both sides of <hi>Iohn</hi> of <hi>Paule Church-yard:</hi> and I wonder how <hi>Iohn</hi> scapt vnhorsing. But when we were entred the doore of the Ordinarie, we might hear our lusty Gentleman shoote off a volley of oathes, some three Roomes ouer vs, cursing the Dice, and wishing the Poxe were in their bones, crying out for a new payre of square ones, for the other belike had cogde with him, and made a Gull of him: when the Hoste of the Ordinarie comming downe stairs, met vs with this report, (after we had named him) Troth good fel<g ref="char:EOLhyphen"/>lows, you haue named now the most vnfortunatest Gentle<g ref="char:EOLhyphen"/>man liuing at (passage I meane:) for I protest, I haue stood by myselfe as a heauie eye witnesse, and séene the beheading of fiue hundred Crownee, and what pittifull end they all made: with that he shewed vs his embost Girdle and Hangers, new pawned for more mony: and told vs beside, not without teares, his glorious cloake was cast away three houres before, ouer-boord, which was, off the table? at which lamentable hearing, we stood still in the lower roome, &amp; durst not venture vp stairs, for feare he would haue laide al vs Plough-men to pawne too: and yet I thinke all we could scarce haue made vp one throwe: but to drawe to an end, as his Patrimony did, we had not lingred the better part of an houre, but downe came fencing his glittering rapier and dagger, as if he had bene newly shoulderclapt by a pewter-buttond Ser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eant, and his weapons seized vpon; at last after a great peale of Oaths on all sides, the Court broake vp, &amp; the worshipfull Bench of Dicers came thundring downe staires, some swearing, some laughing, some cursing, and some singing, with such a confusion of humours, that had we knowne before what rancke of Gallants they were, we should haue thought the Diuels had bene at Dice in an Ordinary: the first that appeared to vs was our most la<g ref="char:EOLhyphen"/>mentable Landlord, drest vp in his Monkies liuery cloake, that he séemed now rather to wait vpon his Monkie, then his
+<pb facs="tcp:176739:15"/>Monky vpon him, which did set forth his Sattin-sute so excel<g ref="char:EOLhyphen"/>lent scuruily, that he lookt for all the world like a French Lord in dirty bootes: when casting his eye vpon vs, being desirous (as it séemed) to remember vs now if we had any mony, brake into these fantasticall spéeches; What my whole warren of Tenants thinking indeed to make Conies of vs: my honest nest of Plough-men, the onely Kings of <hi>Kent:</hi> More dice ho; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>faith let's haue another carere, and vomit thrée dice in a hand againe. With that I pluckt his humor at one side, and told him, we were indeed his fathers Tenants, but his we were sory we were not: and as for mony to maintaine his Dice, we had not sufficient to stuffe out the Lawyer. Then replyed our Gallant in a rage, tossing out two or thrée new minted Oaths; these Plough-men are Polititians I think, they haue wit the whor<g ref="char:EOLhyphen"/>sons; they will be Tenants I perceiue longer then we shall be Landlords: and faine he would haue swaggerd with vs, but that his weapons were at pawne: so marc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing out like a turnd Gentleman, the rest of the Gallants séemed to casheare him, and throw him out of their company like a blanke Die, the one hauing no black Péepes, nor be no white Pieces; Now was our Gallant the true picture of the Prodigall, and hauing no rents to gather now, he gatherd his wittes about him, making his braine pay him reuenewes in villainy. For it is a generall observation, that your Sonnes and Heires, proue seldome wise-men, til they haue no more land then the compasse of their Noddles. To conclude, within fewe dayes practise, he was ab<g ref="char:EOLhyphen"/>solute in cheating, and as exquisite in pandarisme, that he out<g ref="char:EOLhyphen"/>stript al <hi>Greenes</hi> Bookes, <hi>Of the Art of Conie-catching:</hi> and where before he maintained his Drab he made his Drab now maintayne him: proued the onely true Captaine of Vaulting-houses, and the valiant Champion against Constables and Searchers; feeding vpon the sinne of White-Fryers, Pitckt-hatch, and Turne-bol-stréet: Nay, there was no landed Nouice now, but he could melt him away into nothing: and in one twelve-month make him hold all his land betwéene his legs, and yet but straddle eastly neither. No wealthy sonne of the
+<pb facs="tcp:176739:16"/>Citie, but within lesse thē a quarter, be could make all his stock not worth a Iearsie stockin: he was all that might be in disso<g ref="char:EOLhyphen"/>lute villainy, and nothing that should be in his fore-fathers ho<g ref="char:EOLhyphen"/>nestie. To speake troth, we did so much blush at his life, and were so ashamed of his base courses, that euer after we loathed to looke after them. But returning to our stubble-hairde Law<g ref="char:EOLhyphen"/>yer, who reapt his beard euery Terme-time, (the Lawyers haruest) we found the Mercer and the Merchant, crowded in his Studie, amongst a company of Law-bookes, which they instled so often with their Cor-combes, that they were almost together by the eares with them, when at the sight of vs they tooke an <hi>Habes Corpus,</hi> &amp; remooude their bodies into a bigger Roome: but there we lingered not long for our torments, for the Mercer &amp; the Merchant, gaue fire to the Lawyers tongue with a rope of Angels, and the word Fines went off with such a powder, that the force of it blew vs all into the Countrey, quite changde our Plough-mens shapes, and so we became litle <hi>Ants</hi> againe.</p>
+            <p>This, Madame <hi>Nightingale,</hi> is the true discourse of our Rurall fortunes, which how miserable, wretched, and full of oppression they were, all Husband mens browes can witnesse, that are Finde with more sweat, stil yeare by yeare, and I hope a <hi>Canzonet</hi> of your sweet singing, wil set them forth to the world in <hi>Satyricall</hi> Harmony.</p>
+            <p>The remorcefull <hi>Nightingale,</hi> delighted with the <hi>Ants</hi> quaint discourse, began to tune the Instrument of her voyce, breathing forth these lines, in swéet and delicious Aires.</p>
+            <div type="poem">
+               <head>The Nightingales Canzonet.</head>
+               <lg>
+                  <l>
+                     <hi>POore little Ant,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou shalt not want</hi>
+                  </l>
+                  <l>
+                     <hi>The rauisht Musicke of my voyce:</hi>
+                  </l>
+                  <l>
+                     <hi>Thy shape is best,</hi>
+                  </l>
+                  <l>
+                     <hi>Now thou art least,</hi>
+                  </l>
+                  <l>
+                     <hi>For great Ones fall with greater noyse.</hi>
+                  </l>
+                  <l>
+                     <hi>And this shall be the Marriage of my song,</hi>
+                  </l>
+                  <l>
+                     <hi>Small Bodies can haue but a little wrong.</hi>
+                  </l>
+                  <pb facs="tcp:176739:16"/>
+                  <l>
+                     <hi>Now thou art securer,</hi>
+                  </l>
+                  <l>
+                     <hi>And thy dayes farre surer,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou pai'st no Rent vpon the Racke,</hi>
+                  </l>
+                  <l>
+                     <hi>To dawbe a prodigall Land-lords backe:</hi>
+                  </l>
+                  <l>
+                     <hi>Or to maintaine the subtil running</hi>
+                  </l>
+                  <l>
+                     <hi>Of Dice and Drabs, both one in cunning:</hi>
+                  </l>
+                  <l>
+                     <hi>Both passe from hand to hand to many,</hi>
+                  </l>
+                  <l>
+                     <hi>Flattring all, yet false to any:</hi>
+                  </l>
+                  <l>
+                     <hi>Both are well linckt: for throw Dice how you can,</hi>
+                  </l>
+                  <l>
+                     <hi>They wil turne vp their Peepes to euery man.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Happie art thou, and all thy brothers,</hi>
+                  </l>
+                  <l>
+                     <hi>That neuer feelst the Hell of others:</hi>
+                  </l>
+                  <l>
+                     <hi>The torment to a Luxur due,</hi>
+                  </l>
+                  <l>
+                     <hi>Who neuer thinkes his Harlot true,</hi>
+                  </l>
+                  <l>
+                     <hi>Although vpon her heeles he stick his eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet stil he feares, that though she stands, she lyes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Now are thy labours easie,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy state not sicke or queasie;</hi>
+                  </l>
+                  <l>
+                     <hi>All drops thou sweatst are now thine owne,</hi>
+                  </l>
+                  <l>
+                     <hi>Great Subsidies be as vnknowne</hi>
+                  </l>
+                  <l>
+                     <hi>To thee; and to thy little fellow Ants,</hi>
+                  </l>
+                  <l>
+                     <hi>Now none of you vnder that burthen pants.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Loe for example, I my selfe, poore wormes,</hi>
+                  </l>
+                  <l>
+                     <hi>That haue out-worne the rage of <hi>Tereus</hi> stormes:</hi>
+                  </l>
+                  <l>
+                     <hi>Am euer blest now in this downy shape,</hi>
+                  </l>
+                  <l>
+                     <hi>From all mens trechery, or soule-melting Rape:</hi>
+                  </l>
+                  <l>
+                     <hi>And when I sing <hi>Tereu, Tereu,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Through euery Towne, and so renew</hi>
+                  </l>
+                  <l>
+                     <hi>The name of <hi>Torens,</hi> slaues through feares,</hi>
+                  </l>
+                  <l>
+                     <hi>With guiltie Fingers bolt their eares:</hi>
+                  </l>
+                  <l>
+                     <hi>And all rauishers do raue, and e'en fall mad,</hi>
+                  </l>
+                  <l>
+                     <hi>And then such wrongd soules as my selfe are glad.</hi>
+                  </l>
+                  <pb facs="tcp:176739:17"/>
+                  <l>
+                     <hi>So thou small wretch and all thy Nest,</hi>
+                  </l>
+                  <l>
+                     <hi>Are in those litle bodies blest:</hi>
+                  </l>
+                  <l>
+                     <hi>Not taxt beyond your poore degree,</hi>
+                  </l>
+                  <l>
+                     <hi>With Landlords Fine, and Lawyers Fee.</hi>
+                  </l>
+                  <l>
+                     <hi>But tell me prety-toiling worme,</hi>
+                  </l>
+                  <l>
+                     <hi>Did that same Plough-mans weary forme</hi>
+                  </l>
+                  <l>
+                     <hi>Discourage thee so much from others,</hi>
+                  </l>
+                  <l>
+                     <hi>That neither thou, nor those thy brothers,</hi>
+                  </l>
+                  <l>
+                     <hi>In borrowed shapes durst once agen</hi>
+                  </l>
+                  <l>
+                     <hi>Venture amongst perfidious men?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ant.</head>
+                  <l>
+                     <hi>Yes Lady, the poore <hi>Ant</hi> replied,</hi>
+                  </l>
+                  <l>
+                     <hi>I left not so, but then I tried</hi>
+                  </l>
+                  <l>
+                     <hi>Wars sweating Fortunes, not alone</hi>
+                  </l>
+                  <l>
+                     <hi>Condemning rash all states for one,</hi>
+                  </l>
+                  <l>
+                     <hi>Vntill I found by proofe, and knew by course,</hi>
+                  </l>
+                  <l>
+                     <hi>That one was bad, but all the rest were worse.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Nightingale.</head>
+                  <l>
+                     <hi>Didst thou put on a rugged Souldier then?</hi>
+                  </l>
+                  <l>
+                     <hi>A happie state, because thou fought'st gainst men?</hi>
+                  </l>
+                  <l>
+                     <hi>Prethee discourse, thy fortunes, state and harmes,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou wast no doubt, A mighty man at Armes?</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="tale">
+            <pb facs="tcp:176739:17"/>
+            <head>The <hi>Ants</hi> Tale when he was a Souldier.</head>
+            <p>THen thus: Most musicall and prickle-singing Madame, (for if I erre not, your Ladiship was the first that brought vp Prick-song, being nothing else but the fatall notes of your pittifull rauishment): I not contented long, (a vice cleaning to all worldlings) with this litle estate of an Ant, but stuft with en<g ref="char:EOLhyphen"/>uie and ambition, as small as I was, desired to verture into the world againe, which I may rather tearme the vpper Hell or <hi>Frigida Gehenna,</hi> the cold-charitable Hell, wherein are all kind of Diuels too, as your gentle Diuel, your ordinarie Diuel, and your gallant Diuel, and all these can change their shapes too: As to day in cowardly white: to morrow in politicke black: A third day in iealous yallow; for beléeue it, swéete Lady, there are Diuels of all colours: neuerthelesso I couetous of more change, leapt out of this litle skin of an Ant, and hung my skin on the hedge, taking vpon me the grisly shape of a dusty Soul<g ref="char:EOLhyphen"/>dier; well made I was, and my limbes valiantly hewen out for the purpose: I had a Mazard I remember, so well linde in the inside with my Braine, it stood me in better stead then a double head-piece, for the braine of a Souldier differing from al other Sciences, conuerts it selfe to no vse, but to line, fur, and euen quilt the Corscombs, and so makes a pate of proofe: my face was well leuend, which made my lookes faste sowre, the true rellish of a man of war: my chéekes, doe-bakte, pale, wan, and therefore argued valour and resolution: but my nose some<g ref="char:EOLhyphen"/>what hard bakte, and a litle burnt in the Ouen: a property not amisse in a Souldiers vizage, who should scorne to kinsh, but in his nose: my chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was well patcht with a beard, which was a necessary shelther in winter, and a Fly flap in summer: so brushy and spreading, that my lips could scarce be seene to walke abread, but plaide at all his, and durst not péepe forth for starting a Hayre. Tocouelude, my Armes, Thies and Lege, were so sound, stent, and weighty, as if they had come all out
+<pb facs="tcp:176739:18"/>of the Timber-yard: that my very presence onely was able to still the bawlingst Infant in <hi>Europe.</hi> And I thinke Madame, this was no vnlikely shape for a Souldier to proue well: here was mettle enough, for foure shillings awéeke, to doe valiant seruice, till it was bored as full of holes as a Scinuner: well, to the warres I betooke me, ranckt my selfe amongst desperate Hot-shots; onely my carriage put on more ciuilitie, for I sée<g ref="char:EOLhyphen"/>med more like a Spy, thē a follower: an obseruer, rather then a committer of villainy: and litle thought I Madame, that the Campe had bene supplied with Harlots too, as wel as the Cur<g ref="char:EOLhyphen"/>raine; and the garded tents as wicked as garden Tenements; Truils passing too and fro in the washt-shape of Laundresses, as your Bawdes about <hi>London</hi> in the manner of Starchwo<g ref="char:EOLhyphen"/>men, which is the most vnsuspected habit y<seg rend="sup">e</seg> can be to traine out a Mistresie. And if your Ladiship will not thinke me much out of the way, though I take a running leap from the Campe to the <hi>Strand</hi> againe, I will discouer a pretie knauery of the same bréeding, betwéene such a Starch-woman, and a kind wanton Mistresse, as there are fewe of those ballac'st vessells now a<g ref="char:EOLhyphen"/>dayes but will haue a Loue and a husband. The woman ery<g ref="char:EOLhyphen"/>ing her ware by the doore, (a most pittifull cry, and lamentable hearing, that such a stiffe thing as Starch should want Custo<g ref="char:EOLhyphen"/>mers,) passng cunningly and slily by the stall, not once taking notice of the partie you wot on, but being by this, some thrée or foure shops off, Masse quoth my young Mistresse to the weather-Cocke her husband, such a thing I want you know: then she namde how many Puffas and Purles lay in a mise<g ref="char:EOLhyphen"/>rable case for want of sti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning: the honest plaine dealing <hi>Ie<g ref="char:EOLhyphen"/>well</hi> her husband, sent out a Boy to call her: (not Bawde, by her right name, but Starchwoman) into the shop she came, making a lowe counterfet curtesie, of whom the Mistresse demaunded, if the Starch were pure geare, and would be suffe in her Ruffe; saying, she had often bene deceiued be<g ref="char:EOLhyphen"/>fore, when the things about her haue stood as limber as Ele<g ref="char:EOLhyphen"/>skins. The woman replyed as subtilly, Mistresse (quoth she,) take this paper of starch of my hand, and if it prooue
+<pb facs="tcp:176739:18"/>not to your mind, neuer bestow peny with me: which paper indéed, was a Letter sent to her <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Gentleman her ex<g ref="char:EOLhyphen"/>céeding Fauorite. Say you so (quoth the yong Dame) and Ile try it yfaith. With that she ranne vp stayres like a Spinner, vpon small Cobweb-Ropes, not to the or arraigne the starch: but to constur and perse the Letter: whilst her husband sat be<g ref="char:EOLhyphen"/>low by the Counter, like one of these brold-bitten Catchpoles, that waite for one man all day, (when his wife can put fiue in the Counter before him;) wherein she sound many words that pleased her. Withall, the gentleman writ vnto her for a certaine summe of mony: which no sooner was read, but was ready to be sent; wherefore-laying vp the starch and that, and taking another shéete of cleane paper in her hand, wanting time and opportunitie to write at large, with a pen full of Inck in the very middle of the sheet, writ these sewe quaint Mono<g ref="char:EOLhyphen"/>sillables, <hi>Coyne, Cares, and Cures, and all Cees else are yours:</hi> then rowling vp the white mony like the Starch in that paper, very subtilly and artificially, came tripping downe stayres, with these colourable words: Héers goodly Starch in<g ref="char:EOLhyphen"/>déed: Fie, fue: trust me Husband as yellow as the Iaundize; I would not haue betrayde my Puffes with it for a Million: Héere, héere, héere: (giuing her the paper of money) with that the subtill Starch woman, séeming sory that it pleased her not; told her within fewe dayes she would fit her turne with that which should like her: meaning in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>éed more such swéete newes from her Louer. These and such like Madame, are the cun<g ref="char:EOLhyphen"/>ning conueyances, of secret, priuie, and therefore vunoted Har<g ref="char:EOLhyphen"/>lots, that so auoyde the common finger of the world, when lesse Committers then they are publickely pointed at.</p>
+            <p>So likewise in the <hi>Campe</hi> whither now I returne, borne on the swift wings of Apprehension, the habite of a Landresse, shadowes the abhomintion of a Strumpet: And our souldiers are like Glouers, for the one cannot worke well, nor the other fight well without their wenches. This was the first marke of villainy, that I found sticking vpon the brow of war: But after the hot &amp; fierie copulation of a skirmish or two, the Ordenance
+<pb facs="tcp:176739:19"/>playing like so many <hi>Tamburlaines,</hi> the Mulkets and Cali<g ref="char:EOLhyphen"/>uers answering like Drawers; Anon, Anon sir, I cannot be here and there too: that is, in the Souldiers hand, and in the e<g ref="char:EOLhyphen"/>nemies belly: I grew more acquainted, and as it were entred into the Entrailes of Black-liuerd policie. Me-thought indéed at first, those great pieces of Ordenance should speake Eng<g ref="char:EOLhyphen"/>lish, though now by transportation turnde Rebele: and what a miserable and pittifull plight it was Lady, to haue so many thousands of our men slaine by their owne Country-men the Cannons, I meane not the harmelesse <hi>Cannons</hi> of <hi>Powles;</hi> but those Cannons that haue a great singing in their heads. Well in this onset I remember I was well smoake-dried, but neither Arme nor Legge perisht: not so much as the losse of a petty finger: for when I counted them all ouer, I mist not one of them, and yet sometimes the Bullets came within a haire of my Cor-combe, euen like a Barber seraching my pate, and perhaps tooke away the left limbe of a bermin, and so departed. Another time shouldring me like a Bayliffe against <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> Terme, and then shaking me by the sléeue as familiarly as if we had bene acquainted seauen yeares together. To con<g ref="char:EOLhyphen"/>clude, they vsde me very curteously and gentleman-like awhile, like an old cunning Bowler to fetch in a yong kething Gam<g ref="char:EOLhyphen"/>ster, who will suffer him to win one Six-penny game at the first, and then lurch him in Sixe pounds afterward: and so they plaide wish me, still training me (with their faire promises) in<g ref="char:EOLhyphen"/>to farre déeper and deadlier Battayles, where like villainous cheating Bowlers, they lurcht me of two of my best Limbes, <hi>viz.</hi> My right Arme, and right Leggs, that so of a man of war, I became in shew a monster of warre: yet comforted in this, because I knew warre begot many such Monsters as my selfe in lesse then a Twlue-month. Now I could discharge no more, hauing paide the shot deare enough I thinke, but rather desirde to be dischargde, to haue Pay and be gone: whereupon I appeared to my Captaine and other Commanders, kissng my left hand which then stood for both; (like one Actor that plaies two Parts) who séemd to pittie my vnioynted fortunes,
+<pb facs="tcp:176739:19"/>and playster my wounde vp with words, tolde me I had done valiant seruice in their knowledge, marry as for Pay, they most goe on the score with me, for all their money was thumpt out in Powder: And this was no pleasing salue for a gréene sore Madame: twas too much for me, Lady, to trust Caliuers with my Limbes, and then Caualéeres with my mony. Neuer<g ref="char:EOLhyphen"/>lesse (for all my lamentable Action of one Arme like old <hi>Titus Andronicus</hi>) I could purchase no more then one months Pay, for a ten-months paine and perill, nor that neither; but to conuey away my miserable clamours that lay roaring against the Arches of their Eares, marry their bountiful fauours were extended thus farre: I had a Parsport to beg in all Countries.</p>
+            <p>Well, away I was packt, and after a Iewe miseries (by the way) at last I set one foote into <hi>England</hi> againe, (for I had no more then to set) being my Natiue, though vnnaturall Coun<g ref="char:EOLhyphen"/>trey, for whose deare good I pawnde my Limbes to Bullets; those mercilesse Brokers, that will take the vauntage of a mi<g ref="char:EOLhyphen"/>nute, and so they were quite forfeited, lost, and vnrecouerable: when I was on Shoare, the people gathered, which word ga<g ref="char:EOLhyphen"/>thering, put me in hope of good comfort, that afterward I failde of: for I thought at first they had gathered some thing for me, but I found at last they did onely but gather about me: Some wondring at me, as if I had bene some Sea-monster cast a Shoare: some iesting at my deformitie, whilst others laught at the Iestes; One amongst them I remember likened me to a Sea-Crab, because I went all of one side, another fellow vyed and said, I lookte like a Rabbit cut vp and halfe eaten: because my wing and legge (as they tearmde it) were departed: some began to pittie me, but those were fewe in number; or at least their pittie was as penniles, as <hi>Pierce,</hi> who writ to the Diuell for maintenance. Thus passing from place to place, like the Motion of <hi>Iulius Caesar,</hi> or the Citie <hi>Niniue,</hi> though not altogether in so good cloathes: I ouertooke the Citie, from whence I borrowed my first breath, and in whose defence I spent and layde out my Limbes by whole summes, to purchase her peace and happinesse; nothing doubting but to be well en<g ref="char:EOLhyphen"/>treated
+<pb facs="tcp:176739:20"/>there, my grieuous maymes tenderly regarded, my powre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roken estate carefully repayred, the Ruines of my blood built vp againe with redresse and comfort: But woe the while Madame, I was not onely, vnpittied, succourlesse, and reiected, but threatned with the Publicke Stocks, loathsome Iayles, and common whipping-Posts, there to receiue my pay, (a goodly reward for bléeding Seruice) if I were once found in the citie againe.</p>
+            <p>Wherefore, I was forest to retire towards the Spittle, and Shore-ditch, which as it appeared was the onely Cole-harbor and Sanctuarie for Wenches and Souldiers: where I tooke vp a poore lodging a trust, till the Sunday: hoping that then Maister <hi>Almes</hi> and Mistresse <hi>Charitie</hi> would walke abroad, and take the Aire in <hi>Finsbury.</hi>
+            </p>
+            <p>At which time I came hopping out from my Lodging like old lame <hi>Giles</hi> of <hi>Criple-gate:</hi> but when I came there, the winde blew so bleake and cold, that I began to be quite out of hope of <hi>Charitie:</hi> yet, like a torne Map of misery, I waited my single Halfe-penny fortunes, when of a suddaine turning my selfe about, and looking downe the Windmill-Hill, I might e<g ref="char:EOLhyphen"/>spy a farre off, a Fine-fashiond Dame of the Citie, with her man bound by Indenter before her; whom no sooner I caught in mine Eye-lids, but I made too with all possible spéede; and with a premeditated spéech for the nonce, thus most Souldier<g ref="char:EOLhyphen"/>like I accosted her.</p>
+            <p>Swéete Lady, I beséech your Beauty, to weigh the estate of a poore vnioynted Souldier, that hath consum'd the Moity, or the one halfe of his limbs in the dismembring and denouring warres, that hath cheated me of my Flesh so notoriously, I pro<g ref="char:EOLhyphen"/>test I am not worth at this instant the small Reuenew of thrée farthings: beside my Lodging, vnpleasde, and my Diet vnsatisfied: and had I ten thousand Limbes I would venture them all in your swéet Quarrell; rather then such a Beauty as your selfe should want the least limbe of your desire: with that as one being rather moued by my last words of promise, then my first words of pitty; she drew her white bountiful hand out
+<pb facs="tcp:176739:20"/>of her <hi>Mary-Muffe,</hi> and quoited a single Halfe-peny, wherby I knewe her then to be cold Mistresse <hi>Charity,</hi> both by her chil appearance, &amp; the hard frozen Pension she gaue me: she was lapr I remember, from the sharpe iniury of the biting Aire, her vizage was benighted with a Taffaty Maske; to fray away the naughty wind from her face; and yet her very nose séemed so sharpe with cold, that it almost borde a hole quite through. This was frost-bitten <hi>Charity;</hi> her téeth chaterd in her head, and leapt vp and downe like Virginall-Iacks: which betraied likewise who she was: and you would haue broke into infinite laughter Madame (though miserie made me leaden and pen<g ref="char:EOLhyphen"/>siue) had you bene present to haue séene how quickly the Muff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> swallowed her hand againe, for no sooner was it drawne forth to drop downe her pittifull Almes (but for feare the Sunne and Aire should haue rauisht it) it was extempore whipt vp againe. This is the true picture of <hi>Charity</hi> Madame, which is as cold as Ice in the middle of Iuly.</p>
+            <p>Well still I waited for another Fare; but then I bethought my selfe againe, that all the Fares went by water, a Sundayes to the Beare-baiting: &amp; a Mundayes to <hi>Westminster-Hall:</hi> and therfore litle to be lookt for in <hi>Moore fields</hi> all y<seg rend="sup">e</seg> wéek long.</p>
+            <p>Wherefore I sat downe by the Railes there: and fell into these passionate, but not railing spéeches: Is this the fardest re<g ref="char:EOLhyphen"/>ward for a Souldier? Is Valour &amp; Resolution the two Cham<g ref="char:EOLhyphen"/>pions of the Soule, so sleightly estéemed and so basely vnderva<g ref="char:EOLhyphen"/>lued? doth réeling Fortune not onely rob vs of our Limbes, but of our liuing? Are Souldiers then both food for Cannon and for miserie? but then in the midst of my passion, calling to memo<g ref="char:EOLhyphen"/>rie y<seg rend="sup">e</seg> péeuish turnes of many famous populer-Gallants, whose names were writ euen vpon the Hart of the world (it could not so much as thinke without them, nor speake but in the discourse of them) I began to out-dare the very worst of cruell &amp; disafter chances: and determined to be constant in calamitie, &amp; valiant against the Battering Siege of misery: but note the crosse star that alwaies dogd my Fortunes: I had not long rested there, but I saw the T<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>etring C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>table of <hi>Finsbury</hi> with his bench
+<pb facs="tcp:176739:21"/>of browne bil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en making towards me; meaning indéed to stop some Prison hole with me (as your Souldiers when the wars haue done with them, are good for nothing else but to stop holes with all): at which sight. Iscrambled vp of all two, tooke my skin off the hedge, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ousned the Cunstable, and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt into an Ant againe.</p>
+            <div type="poem">
+               <head>The Nightingale.</head>
+               <lg>
+                  <l>
+                     <hi>Oh twas a prety quaint deceite,</hi>
+                  </l>
+                  <l>
+                     <hi>(The <hi>Nightingale</hi> began to sing)</hi>
+                  </l>
+                  <l>
+                     <hi>To slip from those that lie in waite,</hi>
+                  </l>
+                  <l>
+                     <hi>Whose touch is like a Rauens wing,</hi>
+                  </l>
+                  <l>
+                     <hi>Fatall and ominous, which being spread,</hi>
+                  </l>
+                  <l>
+                     <hi>Ouer a mortall, aimes him dead.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Alas poore Emmet thou wa'st tost</hi>
+                  </l>
+                  <l>
+                     <hi>In thousand miseries by this shape:</hi>
+                  </l>
+                  <l>
+                     <hi>Thy colour wasted, thy bloud lost,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy limbes broke, with the violent Rape</hi>
+                  </l>
+                  <l>
+                     <hi>Of hot impatient Cannons, which desire</hi>
+                  </l>
+                  <l>
+                     <hi>To rauish lifes, spending their lust in fire.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Oh what a ruthfull sight it is, to see</hi>
+                  </l>
+                  <l>
+                     <hi>Though in a Souldier of the mean'st degree,</hi>
+                  </l>
+                  <l>
+                     <hi>That right member perisht,</hi>
+                  </l>
+                  <l>
+                     <hi>Which thy body cherisht:</hi>
+                  </l>
+                  <l>
+                     <hi>That Limbe disseuered, burnt, and gon,</hi>
+                  </l>
+                  <l>
+                     <hi>Which the best part was borne vpon;</hi>
+                  </l>
+                  <l>
+                     <hi>And then the greatest ruth of all,</hi>
+                  </l>
+                  <l>
+                     <hi>Returning home in torne estate:</hi>
+                  </l>
+                  <l>
+                     <hi>Where he should rise, there most to fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Trod downe with enuie, bruisde with hate:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet wretch, let this thy comfort be,</hi>
+                  </l>
+                  <l>
+                     <hi>That greater wormes haue farde like thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:176739:21"/>
+                  <l>
+                     <hi>So here thou leftst bloodlesse and wan,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Iournies thorough man and man:</hi>
+                  </l>
+                  <l>
+                     <hi>These two crost shapes so much opprest,</hi>
+                  </l>
+                  <l>
+                     <hi>Did fray thy weaknes from the rest.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ant.</head>
+                  <l>
+                     <hi>NO Madame, once agen my spleene did thirst,</hi>
+                  </l>
+                  <l>
+                     <hi>To try the third, which makes men blest or curst:</hi>
+                  </l>
+                  <l>
+                     <hi>That number <hi>Three,</hi> many Stars wayte vpon,</hi>
+                  </l>
+                  <l>
+                     <hi>Vshering cleere Hap, or black confusion:</hi>
+                  </l>
+                  <l>
+                     <hi>Once more I venturde all my hopes to Crowne,</hi>
+                  </l>
+                  <l>
+                     <hi>But (aye me) leapt into a Sclollers Gowne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Nightingale.</head>
+                  <l>
+                     <hi>A Needy Scholler! <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> worst,</hi>
+                  </l>
+                  <l>
+                     <hi>Lesse fate in that, then ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h the firste</hi>
+                  </l>
+                  <l>
+                     <hi>I thought thou'dst leapt <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Law-Gowne, then</hi>
+                  </l>
+                  <l>
+                     <hi>There had bene hope, to ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e swept vp all agen,</hi>
+                  </l>
+                  <l>
+                     <hi>But a lanck Scholler I studie <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> you can:</hi>
+                  </l>
+                  <l>
+                     <hi>No Acade<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'e makes a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ich. Alderman.</hi>
+                  </l>
+                  <l>
+                     <hi>Well, with this comfort yet thou mayst discourse,</hi>
+                  </l>
+                  <l>
+                     <hi>When Fates are worst, then they can be no <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="tale">
+            <head>The Ants Tale, when he was a Scholler.</head>
+            <p>YOu speaks Oracle Madame, and now suppose sweete La<g ref="char:EOLhyphen"/>dy, you sée me set forth like a poore Scholer to the Vniuer<g ref="char:EOLhyphen"/>sitie not on Horse back, but in <hi>Hobsons</hi> Waggon; and all my Pack<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in lesse than a litle Hood boxe, my Bookes not aboue four in number, and those four were very needful ones too, or else they had neuer bene bought, an yet I
+<pb facs="tcp:176739:22"/>was the valiant Captaine of a Grammer Schoole before I went, endurde the assaull and bastary of many vncleane la<g ref="char:EOLhyphen"/>shes, and all the battailes I was in stood vppon points much; which once let downe the Enemy the Scholemaister would come rereward &amp; do such an exployt tis a shame to be talkt of. By this time Madame, imagine me slightly entertained, to be a poore Scholler and seruitor to some Londoners S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nne, a pure Cockney, that must heare twice a weeke from his mother, or else he will be si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Sunday of a vniuersitie Mully<g ref="char:EOLhyphen"/>grub: such a one I remember was my first poling maister, by whose pée<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nsh seruire I crept into an olde Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lors Gowne, and so began to be a iolly fellow: there was the first point of wit I showde, in learning to keepe my selfe warmer to the con<g ref="char:EOLhyphen"/>firming of which, you shall neuer take your true <hi>Philoso<g ref="char:EOLhyphen"/>phers</hi> without two night caps at once and better, a Gowne of Rugge with the like appurten<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ees: and who be your wise<g ref="char:EOLhyphen"/>men I pray but they? Now as for stodie and Bookes, I had the vse of my yong Maisters, for he was all day a Courtier in the Tennis-court, tossing of Balls in stea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Bookes, and onely holding disputatiō with the Court kéeper, how many doyen he was in: and when any friend of his would remember him to his Booke with this old moath eaten sentence, <hi>Nulla Dies sine Linea:</hi> True he would say, I obserue it well, for I am no day from the lyne of the Racket-court: wel in the meane time I kept his Studie warme, and suckt the Hony of wit from the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owers of <hi>Aristotle,</hi> stéept my braine in the smart Iuice of Lo<g ref="char:EOLhyphen"/>gick, that subtill Virtue, and yet for all my weighty and sob<g ref="char:EOLhyphen"/>stantiall arguments, being able indéed to proue any thing by Logick. I could proue my selfe neuer the richer make the beit Sillegi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e I could<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, although I dayly rose before the Sun, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and conu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with Midnight, killing many a poore Far<g ref="char:EOLhyphen"/>thing Candle, that sometimes was vngently put to death, when <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might haue liued longer, but most times liuing out the full course and houre, and the s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffe dying naturally in his bed. Neuerthelesse, I had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utered as yet but the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a Scholler, and fat but vpon the skirts of learning; full often I
+<pb facs="tcp:176739:22"/>haue sighed, when others haue snor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and when baser Trades haue securely rested in their Lin<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, I haue for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st mine eyes open, and euen gagd them with Capitall Letters, stretching them vppon the tenters of a broade Text line, when Night and Sleepe haue h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng pound waits of lead vp<g ref="char:EOLhyphen"/>on my eye, lids.</p>
+            <p>How many such blark and gastly seas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns haue I past ouer, accompanied onely with a demure watching Candle, that blinkt vppon <hi>Aristotles</hi> workes, and gau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> euen suf<g ref="char:EOLhyphen"/>ficient glimmering to reade by, but none to spare, Hi<g ref="char:EOLhyphen"/>therto my hopes grewe comfortable vpon the spreadding Branches of Art and Learning, rather promising future a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nancement, then emply dayes and penu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious scarcitie. But shall I tell you Lady, Oh! here let me sigh out a full point, and take my leaue of all plent<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> houres, and wealthy hopes, for in the spring of all <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> persections, in the very pride and glo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie of all my <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I was vn<g ref="char:EOLhyphen"/>stuitfully lead to the licorish studie of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that swéete Honey Poyson that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pple Scholl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pro<g ref="char:EOLhyphen"/>sitable swéetnes, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> false cance<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, vntill he burst into exceamities, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or at the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st, one of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Knights of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>try, worse by oddes then one of the p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t Knights of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Marry there was an Age once, but alas, long since dead and rotten, whose dust lies now in Lawyers Sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Bores: in those golden dayes a vert<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us writer might haue liued, maintained himselfe better vpon Pori<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vp<g ref="char:EOLhyphen"/>on Pl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghs, and might haue experded <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the yeare, by the true<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew of his verse: then any <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> brother, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppon the wealthy Quertridges of three <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es three hundred <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, according to the excellent report of these lines.</p>
+            <q>
+               <pb facs="tcp:176739:23"/>
+               <l>
+                  <hi>There was a Golden age! who murderd it?</hi>
+               </l>
+               <l>
+                  <hi>How died that Age, or what became of it?</hi>
+               </l>
+               <l>
+                  <hi>Then Poets by diuinest Alkemy,</hi>
+               </l>
+               <l>
+                  <hi>Did turne their Inck to Gold, Kings in that time</hi>
+               </l>
+               <l>
+                  <hi>Hung Iewells at the eare of euery Rime.</hi>
+               </l>
+               <l>
+                  <hi>But oh those dayes are wasted, and behold</hi>
+               </l>
+               <l>
+                  <hi>The Golden Age that was, is Coynde to Gold:</hi>
+               </l>
+               <l>
+                  <hi>And why time now is cald an Iron man,</hi>
+               </l>
+               <l>
+                  <hi>Or this an Iron Age ti's thus exprest:</hi>
+               </l>
+               <l>
+                  <hi>The Golden Age lyes in an yron chest.</hi>
+               </l>
+            </q>
+            <p>Or,</p>
+            <p>Gold lies now as prisoner in an Vsurers great Iron bard Chest, where the Prison Grates, are the locks and the key-holes, but so closely made, or rather damnd vp, that it neuer lookes to walke abroad againe, vnlesse there chaunce to come a spéedie Rot among Vsurers: for I feare me the pidling Gowle will neuer make them away s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne enough: for your rancke mony Maisters liue their thréescore and ten yeares as order<g ref="char:EOLhyphen"/>ly, as many honester men: and it is great pittie (Lady <hi>Philo<g ref="char:EOLhyphen"/>mell</hi>) that the Gowte should be such a long courtier in a Usu<g ref="char:EOLhyphen"/>rers great Toe, reuelling &amp; dominéering aboue thirty-yeares together in his rammish blood, &amp; his fustie flesh: and I wonder much Madams, that gold being the Spirit of the Indyes, can couch so basely vnder Wood and Iron, two dul slaues, and not muster vp his Legion of Angells, burst through the wide Bulke of a Coffer, and so martch into bountifull and liberall bosoms, shake hands with vertuous Gentlemen, Industri<g ref="char:EOLhyphen"/>ous spirits, and true deseruing worthies detesting the coue<g ref="char:EOLhyphen"/>tous clutches, and loathsome Fangs of a Goate-bearded Usu<g ref="char:EOLhyphen"/>rer, a Sable-souls Broker, and an Infectious Law-Fogger.</p>
+            <q>
+               <l>
+                  <hi>Oh but I chide in vaine, for gold wants eyes,</hi>
+               </l>
+               <l>
+                  <hi>And like a whore cares not with whom it lies.</hi>
+               </l>
+            </q>
+            <pb facs="tcp:176739:23"/>
+            <p> Yet that which makes me most admire his basenesse are these verses following, wherein he proudly sets forth his owne glorie, which he vaunts so much of, that I shame to thinke any: Ignoble spirit or Copper disposition should letter his smooth: golden Limbes in boysterous and sullen Iron, but rather be let frée to euery vertuous and therefore poore Scholler, (for po<g ref="char:EOLhyphen"/>uerty is Neece to vertue so should each Elegant Poem be truly valued, and diuine Poesie set crownd in Gold as she ought, where now she onely sits with a Paper on her head, as if she had committed some notorious trespasse, either for rayling a<g ref="char:EOLhyphen"/>gainst some brawling Lawyer, or calling some Iustice of Peaces wiseman, and how magnificently, Gold sings of his owne fame and glorie, these his owne verses shall stand for witnesses.</p>
+            <q>
+               <l>
+                  <hi>— Know I am Gold,</hi>
+               </l>
+               <l>
+                  <hi>The richest spirit, that breaths in Ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th or Hell:</hi>
+               </l>
+               <l>
+                  <hi>The soule of Kingdomes, and the stam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of soules,</hi>
+               </l>
+               <l>
+                  <hi>Bright Angells we are <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> liuery, soueraigne Kings</hi>
+               </l>
+               <l>
+                  <hi>Christen their names in Gold, and call themselues</hi>
+               </l>
+               <l>
+                  <hi>Royall and soueraygne after my gilt name;</hi>
+               </l>
+               <l>
+                  <hi>All offices are mine, and in my gift.</hi>
+               </l>
+               <l>
+                  <hi>I h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue a hand in all, the statists vein<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Flowe in the blood of Gold the Courtier bathes</hi>
+               </l>
+               <l>
+                  <hi>His supple and lasciuious I imbes in <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le,</hi>
+               </l>
+               <l>
+                  <hi>Which my browe sweats, what Lady brightly sphearde,</hi>
+               </l>
+               <l>
+                  <hi>But takes delight to kisse a Golden beard.</hi>
+               </l>
+               <l>
+                  <hi>Those pleaders foronoone-Play ess, act my parts:</hi>
+               </l>
+               <l>
+                  <hi>With liberall tongs and desperate fighting spirite,</hi>
+               </l>
+               <l>
+                  <hi>That wrastle with the Armes of voice and Ayre:</hi>
+               </l>
+               <l>
+                  <hi>And least they should be out, or faint, or cold,</hi>
+               </l>
+               <l>
+                  <hi>Their Innocent Clyents hist them on with Gold;</hi>
+               </l>
+               <l>
+                  <hi>What holy Churchman's not accounted euen,</hi>
+               </l>
+               <l>
+                  <hi>That prayes three times to me, ere once to heauent</hi>
+               </l>
+               <l>
+                  <hi>Then to let shine the radiance of my birth,</hi>
+               </l>
+               <l>
+                  <hi>I am the Enchantment both in hell and earth.</hi>
+               </l>
+            </q>
+            <pb facs="tcp:176739:24"/>
+            <p> Here's golden Maiesty enough I trow: And Gold art thou so powerfull, so mighty, and yet sna<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed with a poore Pad-lock? Oh base drudge, and too vnworthy of such an Angellike-forme, much like a faire sléekt-fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de Courtier, without either wit or <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtue: Thou that throwest the Earthen Bowle of the world with the Byas the wrong way, to pesantry, baser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse, Ingen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>litie, and neuer giuest desert his due, or shakest thy yealow wings in a Schollers. Studie: but why do I loose my selfe in séeking thee, when thou art found of sewe but I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iterat Hindes, rude Bores, and hoary peuy fathers, that kéepe thée in petpe<g ref="char:EOLhyphen"/>tuall <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ance, in vau<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, vnder false boords, subtill contriued walls, and in horrible darke Dungions, bury thée most vnchri<g ref="char:EOLhyphen"/>stianlike without Amen <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the least noise of a Priest or Clarke: and make thee rise againe at their pleasures many a thousand time before Doomes-day: and yet will not all this moue thée once to forsake them, and kéepe company with a Scholler, that truly knowes how to vse thée?</p>
+            <p>By this time I had framed an elaborate Poeticall building, a neate, choyse, and curious Poem, the first fruites of my must<g ref="char:EOLhyphen"/>call timing findie, which was dispearst into a quaint valume, fairly bound vp in principal vellum, double fillerted with leafe-Gold, strong most Gentlemanlike with Cornation-silke Ri<g ref="char:EOLhyphen"/>band: which Booke, In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustriously heaped with waighty Con<g ref="char:EOLhyphen"/>ceites, pretious Phrases, and wealthy Numbers, I <hi>Oliuer Hubburd,</hi> in the best fashion I might, presented to Sir <hi>Chri<g ref="char:EOLhyphen"/>stopher Clutch-fist,</hi> (whose bountifull vertue I blaze in my first Epistle) the book he entertained, but I think for the couer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sake, because if made such a goodly showe on the backside, and some two daies after returning for my remimeration, I might espy (O lamentable sight Madame) my booke dismembred be<g ref="char:EOLhyphen"/>ry tragically, the Couer ript of, I know not for what purpose, and the Cornation s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke skings puld out, and placst in his spa<g ref="char:EOLhyphen"/>nish leather shooes: at which ruthfull prospect I fell downe and sounded, and when I came to my selfe againe I was an <hi>Ant,</hi> and so euer since I haue kept me.</p>
+            <lg>
+               <pb facs="tcp:176739:24"/>
+               <head>The Nightingale,</head>
+               <l>
+                  <hi>There keepe thee still,</hi>
+               </l>
+               <l>
+                  <hi>Since all are Ill:</hi>
+               </l>
+               <l>
+                  <hi>Venture no more,</hi>
+               </l>
+               <l>
+                  <hi>Tis better be a litle Ant,</hi>
+               </l>
+               <l>
+                  <hi>Then a great man, and liue in want:</hi>
+               </l>
+               <l>
+                  <hi>And still deplore:</hi>
+               </l>
+               <l>
+                  <hi>So rest thee now,</hi>
+               </l>
+               <l>
+                  <hi>From swoord, Booke, or Plough.</hi>
+               </l>
+               <l>
+                  <hi>By this the day began to spring,</hi>
+               </l>
+               <l>
+                  <hi>And seaze vpon her watchfull eies:</hi>
+               </l>
+               <l>
+                  <hi>When more Tree-Queristers did sing,</hi>
+               </l>
+               <l>
+                  <hi>And euery Bird did wake and rise:</hi>
+               </l>
+               <l>
+                  <hi>Which was no sooner seene and heard,</hi>
+               </l>
+               <l>
+                  <hi>But all their prety chat was mard:</hi>
+               </l>
+               <l>
+                  <hi>And then she saide,</hi>
+               </l>
+               <l>
+                  <hi>We are betraide,</hi>
+               </l>
+               <l>
+                  <hi>The day is vp, and all the birds,</hi>
+               </l>
+               <l>
+                  <hi>And they abroad will blab our words:</hi>
+               </l>
+               <l>
+                  <hi>With that she bad the Ants farewell,</hi>
+               </l>
+               <l>
+                  <hi>And all they likewise <hi>Philomel.</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Away she slew,</hi>
+               </l>
+               <l>
+                  <hi>Crying <hi>Teren!</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>And all the Industrious Ants in throngs,</hi>
+               </l>
+               <l>
+                  <hi>Fell to their worke, and held their tongs.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
